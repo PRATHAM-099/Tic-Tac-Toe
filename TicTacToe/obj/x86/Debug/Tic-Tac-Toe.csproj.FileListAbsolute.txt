@@ -1,2 +1,8 @@
 P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.exe
 P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+P:\Projects\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.exe
+P:\Projects\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.pdb
+P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.TicTacToe.resources
+P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
