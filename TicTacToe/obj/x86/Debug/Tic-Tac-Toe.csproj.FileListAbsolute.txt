@@ -6,3 +6,5 @@ P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\Tic-Tac-Toe.csprojResolveAssembl
 P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
 P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.TicTacToe.resources
 P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
