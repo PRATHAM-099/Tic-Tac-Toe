@@ -36,8 +36,8 @@ This is a 2 Player game and players has to choose their respective symbols befor
 
 ## Functionality
 <div align="center">
-  <img src="https://github.com/PRATHAM-099/Tic-Tac-Toe/blob/main/Resources/OWin.gif" alt="Tic Tac Toe" /> &nbsp 
-  <img src="https://github.com/PRATHAM-099/Tic-Tac-Toe/blob/main/Resources/XWin.gif" alt="Tic Tac Toe" /> <br>
+  <img src="https://github.com/PRATHAM-099/Tic-Tac-Toe/blob/main/Resources/OWin.gif" alt="Tic Tac Toe" /> 
+  <img src="https://github.com/PRATHAM-099/Tic-Tac-Toe/blob/main/Resources/XWin.gif" alt="Tic Tac Toe" /> 
   <img src="https://github.com/PRATHAM-099/Tic-Tac-Toe/blob/main/Resources/Draw.gif" alt="Tic Tac Toe" />
 </div>
 
