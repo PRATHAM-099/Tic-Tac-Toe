@@ -33,3 +33,12 @@ This is a 2 Player game and players has to choose their respective symbols befor
 - If Both the player has same score even after 5 rounds a super round is played to dermine the winner.
 
 ## Installation
+Here are the steps to install and run the Tic-Tac-Toe game from this GitHub repository
+- Go to the GitHub repository at https://github.com/PRATHAM-099/Tic-Tac-Toe
+- Click on the green "Code" button and select "Download ZIP" to download the code as a zip file.
+- Extract the contents of the downloaded zip file to a folder on your computer.
+- Open a command prompt or terminal window and navigate to the extracted folder using the "cd" command.
+- Once you are inside the project folder, you will find a file named "tic_tac_toe.exe". This is the executable file that you need to run to play the game.
+- Run the executable file by typing "tic_tac_toe.exe" in the command prompt or terminal window and pressing Enter.
+- The Tic-Tac-Toe game will now start. Follow the on-screen instructions to play the game.
+- That's it! You have successfully installed and run the Tic-Tac-Toe game.
