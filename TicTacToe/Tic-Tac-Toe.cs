@@ -310,7 +310,7 @@ namespace TicTacToe
             }
             else if (win_count_O >= 3 || (flag == 1 && win_count_O > win_count_X))
             {
-                DialogResult ok = MessageBox.Show("X IS THE FINAL CHAMPION.", "FINAL RESULT", MessageBoxButtons.OK);
+                DialogResult ok = MessageBox.Show("O IS THE FINAL CHAMPION.", "FINAL RESULT", MessageBoxButtons.OK);
                 MessageBox.Show("GAME OVER \n☺ THANKS FOR PLAYING ☺");
                 if (ok == DialogResult.OK)
                 {

@@ -344,6 +344,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TIC TAC TOE";
             this.TransparencyKey = System.Drawing.SystemColors.Control;
+            //this.Load += new System.EventHandler(this.TicTacToe_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 

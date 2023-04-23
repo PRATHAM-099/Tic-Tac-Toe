@@ -8,3 +8,8 @@ P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.TicTacToe.resources
 P:\Projects\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
 P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.exe
 P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\TicTacToe.TicTacToe.resources
+P:\GitHub\Tic-Tac-Toe\TicTacToe\obj\x86\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+P:\GitHub\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.exe
+P:\GitHub\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.pdb
